@@ -27,7 +27,6 @@ form {
 
 fieldset {
     border: none;
-    padding: 0.5;
 }
 
 label {
@@ -35,8 +34,34 @@ label {
     margin: 1rem 0;
 }
 
-input, textarea, select {
-    margin: 10px 0 0 0;
+#field1 input, textarea, select {
+    margin: 10px 0 10px 0;
     width: 100%;
     min-height: 2em;
+}
+
+#field1 label {
+    font-weight: 550;
+}
+
+#field2 {
+    margin-top: -20px;
+    margin-bottom: -10px;
+}
+
+#field2 p {
+    font-weight: 550;
+}
+
+#same {
+    margin-bottom: 25px;
+}
+
+#submit {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    min-height: 3em;
+    font-size: 1.2em;
+    border-radius: 10px;
 }

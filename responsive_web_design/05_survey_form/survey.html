@@ -13,14 +13,11 @@
         </header>
 
         <form id="survey-form">
-            <fieldset>
+            <fieldset id="field1">
                 <label id="name-label" for="name">Name <input id="name" name="name" type="text" placeholder="Enter your name" required /></label>
                 <label id="number-label" for="number">Age (optional) <input id="number" name="age" type="number" placeholder="Enter your age" min="12" max="120" /></label>
                 <label for="country">Country <input id="country" name="country" type="text" placeholder="Enter your country of residence" required/></label>
                 <label id="email-label" for="email">Email <input id="email" name="email" type="email" placeholder="Enter your email address" required /></label>
-            </fieldset>
-
-            <fieldset>
                 <label for="dropdown">How often, if at all, do you eat any meat in an average week?
                     <select id="dropdown" name="frequency">
                         <option value="">(select one)</option>
@@ -30,15 +27,14 @@
                         <option value="4">Never</option>
                     </select>
                 </label>
+            </fieldset>
 
+            <fieldset id="field2">
                 <p>Have you increased or decreased your consumption of meat over the last 12 months?</p>
                 <label for="increased"><input id="increased" value="increased" type="radio" name="consumption" class="inline" /> Increased</label>
                 <label for="decreased"><input id="decreased" value="decreased" type="radio" name="consumption" class="inline" /> Decreased</label>
                 <label for="same"><input id="same" value="same" type="radio" name="consumption" class="inline" /> Stayed the same</label>
 
-            </fieldset>
-
-            <fieldset>
                 <p>In which, if any, of the following ways do you think you would go about reducing your meat consumption? (Please select all that apply)</p>
                 <label for="veggies"><input id="veggies" value="veggies" type="checkbox" name="reducing" class="block" /> Eat more vegetables, pulses/lentils </label>
                 <label for="smaller-portions"><input id="smaller-portions" value="smaller-portions" type="checkbox" name="reducing" class="block" /> Eat meat but in reduced portion sizes per meal </label>
@@ -48,7 +44,9 @@
                 <label for="vegetarian"><input id="vegetarian" value="vegetarian" type="checkbox" name="reducing" class="block" /> Go vegetarian/vegan </label>
                 <label for="dont-know"><input id="dont-know" value="dont-know" type="checkbox" name="reducing" class="block" /> Don't know </label>
                 <label for="not applicable"><input id="not applicable" value="not applicable" type="checkbox" name="reducing" class="block" /> Not applicable </label>
+            </fieldset>
 
+            <fieldset id="field1">
                 <label for="reasons">What are your main reasons for not reducing meat in your diet? 
                     <textarea id="reasons" name="reasons" rows="10" cols="30" placeholder="Enter your comments here..."></textarea></label>
             </fieldset>
