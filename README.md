@@ -7,3 +7,4 @@ Collection of freeCodeCamp projects I've completed.
 3. Colored Markers
 4. Registration Form
 5. <b>Certification Project:</b> Survey Form
+6. Rothko CSS
