@@ -9,3 +9,4 @@ Collection of freeCodeCamp projects I've completed.
 5. <b>Certification Project:</b> Survey Form
 6. Rothko Painting (CSS Box Model)
 7. Photo Gallery (CSS Flexbox)
+8. Nutrition Label (Typography)
