@@ -11,3 +11,4 @@ Collection of freeCodeCamp projects I've completed.
 7. Photo Gallery (CSS Flexbox)
 8. Nutrition Label (Typography)
 9. Quiz (Accessibility)
+10. <b>Certification Project:</b> Tribute Page
