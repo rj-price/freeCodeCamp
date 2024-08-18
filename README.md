@@ -1,6 +1,10 @@
 # freeCodeCamp
 Collection of freeCodeCamp projects I've completed.
 
+<br>
+
+# Web Dev
+
 ## Responsive Web Design
 1. Cat Photo App (Basic HTML)
 2. Cafe Menu (Basic CSS)
@@ -12,3 +16,16 @@ Collection of freeCodeCamp projects I've completed.
 8. Nutrition Label (Typography)
 9. Quiz (Accessibility)
 10. <b>Certification Project:</b> Tribute Page
+11. Balance Sheet (CSS Pseudo Selectors)
+
+<br>
+
+# Python 
+
+## Scientific Computing with Python
+1. Cipher (String Manipulation)
+2. Luhn Algorithm (Numbers & Strings)
+
+## Data Analysis with Python
+- Intro to NumPy
+- Intro to Pandas
