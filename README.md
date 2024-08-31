@@ -25,6 +25,9 @@ Collection of freeCodeCamp projects I've completed.
 ## Scientific Computing with Python
 1. Cipher (String Manipulation)
 2. Luhn Algorithm (Numbers & Strings)
+3. Expense Tracker (Lambda Functions)
+4. Case Converter (List Comprehension)
+5. Square Root Finder (Bisection Method)
 
 ## Data Analysis with Python
 - Intro to NumPy
