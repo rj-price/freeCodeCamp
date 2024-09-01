@@ -28,6 +28,7 @@ Collection of freeCodeCamp projects I've completed.
 3. Expense Tracker (Lambda Functions)
 4. Case Converter (List Comprehension)
 5. Square Root Finder (Bisection Method)
+6. Arithmetic Arranger (<b>Certification Project</b>>)
 
 ## Data Analysis with Python
 - Intro to NumPy
